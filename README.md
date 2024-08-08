@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Kelson
 - 👀 I’m interested in Web Security
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning programming and a bit of everything.
+- 💞️ I’m looking to collaborate on various projects
 - 😄 Pronouns: Co/rin/thi/ans
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Why so Serious?
 
 <!---
 Kelson/Kelson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
